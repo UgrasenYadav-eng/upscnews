@@ -29,10 +29,10 @@ export class News extends Component {
 
                     <div className='col-md-4'>
                         {/* news */}
-                        <NewsIteam title= "Climate Change Impact on Panama Canal" 
-                        discription= "The Panama Canal, a critical global shipping lane, is facing significant challenges due to prolonged drought conditions exacerbated by climate change " 
-                        imageURL="https://media.licdn.com/dms/image/v2/D5612AQERxGuv7ogxTw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1707434226590?e=2147483647&v=beta&t=w-YnSFI-M3Ce3UUQOBVjfAcXU5JFut-EvGWbLUK5aKY" 
-                        Source= "Dristi IAS"/>
+                        <NewsIteam title= "India, Japan conduct ‘2+2’ dialogue" 
+                        discription= "Two sides hold discussion on defence cooperation, significance of open Indo-Pacific; Rajnath says partnership is based on democratic values" 
+                        imageURL="https://epaper.thehindu.com/reader" 
+                        Source= "The Hindu"/>
                     </div>
 
             </div>
