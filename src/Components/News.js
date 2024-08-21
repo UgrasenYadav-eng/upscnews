@@ -31,7 +31,7 @@ export class News extends Component {
                         {/* news */}
                         <NewsIteam title= "India, Japan conduct ‘2+2’ dialogue" 
                         discription= "Two sides hold discussion on defence cooperation, significance of open Indo-Pacific; Rajnath says partnership is based on democratic values" 
-                        imageURL="https://epaper.thehindu.com/reader" 
+                        imageURL="https://epaper.thehindu.com/ccidist-ws/th/th_international/issues/96072/OPS/Public/GGSD6LJ2T.1%2BGDGD7MV5Q.1.jpg?rev=undefined" 
                         Source= "The Hindu"/>
                     </div>
 
