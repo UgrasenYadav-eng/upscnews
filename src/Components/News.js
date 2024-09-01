@@ -38,11 +38,32 @@ export class News extends Component {
 
                     <div className='col-md-4'>
                         {/* news */}
-                        <NewsIteam title= "Supreme Court's Role in Upholding Civil Liberties" 
-                        discription= "the Supreme Court of India's recent decision to grant bail in Delhi excise policy case, emphasizing that liberty is an intrinsic part of constitutionalism, highlights its role in upholding individual rights and ensuring timely justice. " 
-                        imageURL="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Supreme_Court_of_India_-_Central_Wing.jpg/220px-Supreme_Court_of_India_-_Central_Wing.jpg" 
-                        Source= "Dristi IAS"
-                        Detail= "https://www.drishtiias.com/daily-updates/daily-news-editorials/supreme-court-s-role-in-upholding-civil-liberties"/>
+                        <NewsIteam title= "How special is education anyway?" 
+                        discription= "A flawed framework: As many as 64,377 children with special needs are studying in schools under the SSA. However, only 1,649 special educators have been employed. This highlights a major flaw in the SSA’s inclusive education: the number of disabled students is disproportionate to the number of special educators. M. VEDHAN. " 
+                        imageURL="https://epaper.thehindu.com/ccidist-ws/th/th_international/issues/97650/OPS/Public/GUTD9614F.1%2BG8ED98S2K.1.jpg?rev=undefined" 
+                        Source= "The Hindu"
+                        Detail= "https://epaper.thehindu.com/ccidist-ws/th/th_international/issues/97650/OPS/GUTD9614F.1+G8ED98S2E.1.html"/>
+                    </div>
+
+                     <div className='col-md-4'>
+                        {/* news */}
+                        <NewsIteam title= "National Conference of the District Judiciary" 
+                        discription= "A flawed framework: As many as 64,377 children with special needs are studying in schools under the SSA. However, only 1,649 special educators have been employed. This highlights a major flaw in the SSA’s inclusive education: the number of disabled students is disproportionate to the number of special educators. M. VEDHAN. " 
+                        imageURL="https://www.pmindia.gov.in/wp-content/uploads/2024/08/H20240831165295.jpg" 
+                        Source= "PMINDIA"
+                        Detail = "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-national-conference-of-district-judiciary-in-new-delhi/?comment=disable"
+                         Source_Two= "Vajiram & Ravi"
+                        Detail_Two= "https://vajiramias.com/article/national-conference-of-the-district-judiciary/66d407ae4f1b742510cfba41/"/>
+                    
+                    </div>
+
+                     <div className='col-md-4'>
+                        {/* news */}
+                        <NewsIteam title= "How special is education anyway?" 
+                        discription= "A flawed framework: As many as 64,377 children with special needs are studying in schools under the SSA. However, only 1,649 special educators have been employed. This highlights a major flaw in the SSA’s inclusive education: the number of disabled students is disproportionate to the number of special educators. M. VEDHAN. " 
+                        imageURL="https://epaper.thehindu.com/ccidist-ws/th/th_international/issues/97650/OPS/Public/GUTD9614F.1%2BG8ED98S2K.1.jpg?rev=undefined" 
+                        Source= "The Hindu"
+                        Detail= "https://epaper.thehindu.com/ccidist-ws/th/th_international/issues/97650/OPS/GUTD9614F.1+G8ED98S2E.1.html"/>
                     </div>
                     
                    
